@@ -1,0 +1,16 @@
+[package]
+name = "utopia"
+version = "0.0.1"
+authors = [
+    "Chris Ohk <utilforever@gmail.com>",
+    "SeungHyun Jeon <shtowever@gmail.com>"
+]
+edition = "2018"
+description = "City-based traffic simulations with TypeScript and WebAssembly in Rust"
+
+readme = "README.md"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
